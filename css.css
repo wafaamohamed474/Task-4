@@ -1,0 +1,7 @@
+body{
+    background-image:url("./aa.jpg") ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: rgb(236, 120, 91);
+     background-attachment:fixed ;
+}
